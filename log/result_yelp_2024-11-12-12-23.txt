@@ -1,0 +1,1 @@
+Namespace(lr=5e-05, decay=0.99, batch=256, inter_batch=4096, note=None, lambda1=0.6, lambda2=0.2, lambda3=0.2, lambda4=0.2, alpha=1.0, epoch=100, d=32, hyper=64, q=5, gnn_layer=4, hgnn_layer=2, data='yelp', eps=0.0, dropout=0.0, temp1=0.2, temp2=0.2, temp3=0.2, reg=0.0001, cuda='0')
